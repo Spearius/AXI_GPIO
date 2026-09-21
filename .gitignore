@@ -1,0 +1,24 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.tmp
+
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+.Xil/
+
+# Vitis generated/build files
+Debug/
+Release/
+.metadata/
+RemoteSystemsTempFiles/
+*.dcp
+
+# OS files
+.DS_Store
+Thumbs.db
