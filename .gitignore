@@ -19,6 +19,10 @@ Release/
 RemoteSystemsTempFiles/
 *.dcp
 
+# Vitis workspace files
+axio_gpio_vitis/
+axi_gpio_vitis_new/
+
 # OS files
 .DS_Store
 Thumbs.db
